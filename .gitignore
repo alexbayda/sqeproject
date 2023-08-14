@@ -1,4 +1,10 @@
-*.db
+*.exe
+*.dll
+*.tmp
+*.swp
+.vscode/
+.idea/
 *.log
-/target/
-/bin/
+Thumbs.db
+.DS_Store
+node_modules/
